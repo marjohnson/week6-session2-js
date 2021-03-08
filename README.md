@@ -1,2 +1,2 @@
-# week6-functions-objects
-JS - Functions and Objects
+# week6-session2-js
+JS
